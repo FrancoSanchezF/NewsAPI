@@ -58,7 +58,7 @@ public class TheNewsApiApplication {
 					"https://www.noticias.ucn.cl/wp-content/uploads/2021/11/11.jpg",
 					"Tiare Aguilera se reunió con autoridades universitarias, con estudiantes de Rapa Nui, con investigadores de ESMOI, autoridades de la Facultad de Ciencias del Mar, el Consejo de Sede y dirigentes estudiantiles.",
 					"La relación entre la Universidad Católica del Norte (UCN) y la Isla de Pascua comenzó hace  varios años, alianza que ha permitido a isleños obtener becas para estudiar en la universidad, recibir capacitación técnica y apoyo en la conservación del entorno marino, mientras que la universidad desarrolla investigaciones científicas y mantiene un trabajo constante a través del Centro de Ecología y Manejo Sustentable de Islas Oceánicas (ESMOI). Considerando esta alianza, y que debido a las medidas sanitarias no se puede viajar a la isla, Tiare Aguilera, convencional constituyente representante electa por el escaño reservado del pueblo Rapa Nui, aprovechó la semana territorial para visitar la UCN. Mi idea, dijo, “fue visitar la UCN por la relación que tiene hace bastante tiempo con Rapa Nui, a través de investigaciones, de relaciones de trabajo, de la entrega de becas a estudiantes que han podido cursar carreras muy relacionadas con lo que nosotros necesitamos, que son pertinente para la situación local”.",
-					ZonedDateTime.now(ZoneId.of("-4"))
+					ZonedDateTime.now(ZoneId.of("-3"))
 
 			);
 			// Save the news
